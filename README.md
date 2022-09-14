@@ -1,7 +1,8 @@
-# frt
-FTR finalproject
+# Future Ready Talent
 
-FUTURE READY TALENT AZURE LINK : https://witty-smoke-00e1e7e10.1.azurestaticapps.net/
+FRT finalproject
+
+FUTURE READY TALENT AZURE LINK : https://yellow-pond-00c6ce510.1.azurestaticapps.net
 
 # Project Description:
 This is a Webpage developed using HTML & CSS as part of FUTURE READY TALENT Internship Project & implementing Microsoft Azure Services like The Static Webapp to deploy the website and QnA makers to answers the queries of the consumers.
